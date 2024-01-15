@@ -43,7 +43,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourlinkedin) or [Twitter](https://twitter.com/yourtwitter) for any questions or collaborations.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourlinkedin) for any questions or collaborations.
+contact gmail osiris.remolina.golang@gmail.com 
 
 Happy coding! 🚀
 
